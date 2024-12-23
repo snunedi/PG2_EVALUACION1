@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">TomaDePedidos</string>
+
+    <!-- Descripciones de imágenes -->
+    <string name="logo_description">Logo del restaurante</string>
+    <string name="pastel_choclo_name">Pastel de Choclo</string>
+    <string name="cazuela_name">Cazuela</string>
+
+    <!-- Textos para los platos -->
+    <string name="cantidad_hint">Cantidad</string>
+
+    <!-- Textos para los totales -->
+    <string name="comida_total_placeholder">Comida: $0</string>
+    <string name="propina_total_placeholder">Propina: $0</string>
+    <string name="total_final_placeholder">TOTAL: $0</string>
+
+    <!-- Texto para el Switch -->
+    <string name="incluir_propina">Incluir propina</string>
+</resources>
